@@ -1,4 +1,4 @@
 # My-demo
 This is my 1st Git repository.
 <br>
-Author:Kusum Sahu
+Author:Kusum Sahu(Apna College)
